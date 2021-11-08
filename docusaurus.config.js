@@ -55,7 +55,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'News', position: 'left'},
           {
             href: 'https://github.com/ryzech/docs',
             label: 'GitHub',
@@ -96,7 +96,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'News',
                 to: '/blog',
               },
               {
