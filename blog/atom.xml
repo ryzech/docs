@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.ryzech.net/blog</id>
     <title>Legundo SMP Docs Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2021-10-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.ryzech.net/blog"/>
     <subtitle>Legundo SMP Docs Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[SMP Patch Notes]]></title>
         <id>patch notes</id>
         <link href="https://docs.ryzech.net/blog/patch notes"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
+        <updated>2021-10-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Legundo SMP recently had a huge patch update! This blog post will be going over what's changed and what you should expect to see different the next time you join.]]></summary>
         <content type="html"><![CDATA[<p>The <a href="https://legundo.mcserver.us">Legundo SMP</a> recently had a huge patch update! This blog post will be going over what&#x27;s changed and what you should expect to see different the next time you join.</p>]]></content>
         <author>

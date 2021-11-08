@@ -4,14 +4,14 @@
         <title>Legundo SMP Docs Blog</title>
         <link>https://docs.ryzech.net/blog</link>
         <description>Legundo SMP Docs Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[SMP Patch Notes]]></title>
             <link>https://docs.ryzech.net/blog/patch notes</link>
             <guid>patch notes</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[The Legundo SMP recently had a huge patch update! This blog post will be going over what's changed and what you should expect to see different the next time you join.]]></description>
             <content:encoded><![CDATA[<p>The <a href="https://legundo.mcserver.us">Legundo SMP</a> recently had a huge patch update! This blog post will be going over what&#x27;s changed and what you should expect to see different the next time you join.</p>]]></content:encoded>
         </item>
