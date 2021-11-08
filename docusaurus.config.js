@@ -106,7 +106,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Legundo LLC.`,
+        copyright: `Copyright © ${new Date().getFullYear()} all rights reserved.`,
       },
       prism: {
         theme: lightCodeTheme,
