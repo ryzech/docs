@@ -20,4 +20,4 @@ legundo:
   name: Legundo
   title: Owner
   url: https://legundo.com
-  image_url: /static/img/legundo.jpg
+  image_url: ../static/img/legundo.jpg
