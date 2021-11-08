@@ -19,7 +19,7 @@ const FeatureList = [
     description: (
       <>
         You can keep up to date on SMP specific news in the news page! For all other community news join our 
-         <a href="https://legundo.com/discord">Discord</a> or go to <a href="https://legundo.com">Legundo's Website</a>
+        <a href="https://legundo.com/discord"> Discord</a> or go to <a href="https://legundo.com">Legundo's Website</a>
       </>
     ),
   },
