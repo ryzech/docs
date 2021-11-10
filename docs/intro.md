@@ -13,9 +13,10 @@ Use this if you need to figure out if someone stole something from someone, brok
 | `/co restore`      | `Undo rollbacks.` [More info](#Restore) | `/co rs` |
 
 ### Inspect
-For this command, it's pretty simple. Just use the command, right click or left click on a block,
-
-and use the info provided in the chat to see who did what at that specific block.
+For this command, it's pretty simple. to use the command, type "/co inspect" then either:
+*Left click to check the block your cursor is aimed at 
+*Right click to check the y coordinate of the block you're looking at. (Usefull for broken/stolen blocks!)
+               *NOTE: Right click is also used to check chest transactions!
 
 Also, use `/co l <page number>` to switch between interaction pages faster.
 
