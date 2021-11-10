@@ -18,7 +18,7 @@ For this command, it's pretty simple. to use the command, type "/co inspect" the
 * Right click to check the y coordinate of the block you're looking at. (Usefull for broken/stolen blocks!)
  >(NOTE: Right click is also used to check chest transactions!)
 
-Also, use `/co l <page number>` to switch between interaction pages faster.
+To go back further in the block data, use `/co l <page number>`!
 
 ### Lookup
 Lookup interactions by radius, user, or a worldedit selection area.
