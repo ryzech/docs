@@ -23,7 +23,17 @@ To go back further in the block data, use `/co l <page number>`!
 ### Lookup
 Lookup interactions by radius, user, or a worldedit selection area.
 
-| Command Name        | Usage (Put after the command name)   |
+| Command Name        | Syntax/Usage  (how to use the command)  |
 | ------------- |:-------------:|
 | `/co lookup`      | u:{put username here} t:{put how long ago it was here} r:{radius of lookup} a:{what action they used} i:{include certain blocks or entities} e:{exclude certain blocks or entities} |
 | `/co l`      | /co l {see previous usage} |
+
+### Rollback and Restore
+
+| Command Name        | Syntax/Usage  (how to use the command)  |
+| ------------- |:-------------:|
+| `/co rollback`  | u:{put username here} t:{put how long ago it was here} r:{radius of rollback} a:{what action they used} i:{include certain blocks or entities} e:{exclude certain blocks or entities}
+
+
+
+
