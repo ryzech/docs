@@ -16,7 +16,7 @@ Use this if you need to figure out if someone stole something from someone, brok
 For this command, it's pretty simple. to use the command, type "/co inspect" then either:
 * Left click to check the block your cursor is aimed at 
 * Right click to check the y coordinate of the block you're looking at. (Usefull for broken/stolen blocks!)
-* NOTE: Right click is also used to check chest transactions!
+(NOTE: Right click is also used to check chest transactions!)
 
 Also, use `/co l <page number>` to switch between interaction pages faster.
 
