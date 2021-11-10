@@ -28,7 +28,11 @@ Lookup interactions by radius, user, or a worldedit selection area.
 | `/co lookup`      | u:{put username here} t:{put how long ago it was here} r:{radius of lookup} a:{what action they used} i:{include certain blocks or entities} e:{exclude certain blocks or entities} |
 | `/co l`      | /co l {see previous usage} |
 
-### Rollback and Restore
+
+### Rollback
+This command is very important when it comes to large griefs or thefts. To use the command, type "/co rollback" followed by specific rollback parameters. This command acts as a sort of "undo" button for 
+
+### Restore
 
 | Command Name        | Syntax/Usage  (how to use the command)  |
 | ------------- |:-------------:|
