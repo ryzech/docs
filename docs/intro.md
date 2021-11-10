@@ -34,6 +34,8 @@ Lookup interactions by radius, user, or a worldedit selection area.
 | ------------- |:-------------:|
 | `/co rollback`  | u:{put username here} t:{put how long ago it was here} r:{radius of rollback} a:{what action they used} i:{include certain blocks or entities} e:{exclude certain blocks or entities}
 | `/co rb`      | /co rb {see previous usage} |
+| `/co restore`  | u:{put username here} t:{put how long ago it was here} r:{radius of restore} a:{what action they used} i:{include certain blocks or entities} e:{exclude certain blocks or entities}
+| `/co rs`      | /co rs {see previous usage} |
 
 
 
