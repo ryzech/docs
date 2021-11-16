@@ -30,9 +30,11 @@ Lookup interactions by radius, user, or a worldedit selection area.
 
 
 ### Rollback
-This command is very important when it comes to large griefs or thefts. To use the command, type "/co rollback" followed by specific rollback parameters. This command acts as a sort of "undo" button for 
+This command is very important when it comes to large griefs or thefts. To use the command, type "/co rollback" followed This command acts as an effective "undo" button for the smp! 
+>(NOTE: If you do not specify a radius, the smp will attempt to rollback _EVERYTHING_ that user has done within that action.)
 
 ### Restore
+This command is the opposite to Rollback. As the name implies, it undos the undo button. To use this command, type "/co restore" followed 
 
 | Command Name        | Syntax/Usage  (how to use the command)  |
 | ------------- |:-------------:|
