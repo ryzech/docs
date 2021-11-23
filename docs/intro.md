@@ -50,8 +50,8 @@ Parameter Details
 
 *You can specify a single user or multiple users.*
 
--   Example: `u:User`
--   Example: `u:User,AnotherUser`
+  * Example: `u:User`
+  * Example: `u:User,AnotherUser`
 
 * * * * *
 
@@ -60,9 +60,9 @@ Parameter Details
 *You can specify weeks, days, hours, minutes, and seconds.*\
  *Time amounts can be combined, and decimals may be used.*
 
--   Example: `t:2w,5d,7h,2m,10s`
--   Example: `t:5d2h`
--   Example: `t:2.50h` *(2 and a half hours)*
+  * Example: `t:2w,5d,7h,2m,10s`
+  * Example: `t:5d2h`
+  * Example: `t:2.50h` *(2 and a half hours)*
 
 * * * * *
 
@@ -71,10 +71,10 @@ Parameter Details
 *A numeric radius targets within that many blocks of your player
 location.*
 
--   Example: `r:10` *(target within 10 blocks of your location)*
--   Example: `r:#world_the_end` *(target a specific world)*
--   Example: `r:#global` *(target the entire server)*
--   Example: `r:#worldedit` or `r:#we` *(target a WorldEdit selection)*
+  * Example: `r:10` *(target within 10 blocks of your location)*
+  * Example: `r:#world_the_end` *(target a specific world)*
+  * Example: `r:#global` *(target the entire server)*
+  * Example: `r:#worldedit` or `r:#we` *(target a WorldEdit selection)*
 
 * * * * *
 
@@ -88,27 +88,27 @@ location.*
 
   Action           Description
   ---------------- --------------------------------------------------------------
-  `a:block`        blocks placed/broken
-  `a:+block`       blocks placed
-  `a:-block`       blocks broken
-  `a:chat`         messages sent in chat
-  `a:click`        player interactions
-  `a:command`      commands used
-  `a:container`    items taken from or put in chests
-  `a:+container`   items put in chests
-  `a:-container`   items taken from chests
-  `a:inventory`    items dropped, picked up, deposited, or withdrawn by players
-  `a:+inventory`   items picked up or withdrawn by players
-  `a:-inventory`   items dropped or deposited by players
-  `a:item`         merges `a:container` and `a:inventory`
-  `a:+item`        merges `a:+container` and `a:+inventory`
-  `a:-item`        merges `a:-container` and `a:-inventory`
-  `a:kill`         mobs/animals killed
-  `a:session`      player logins/logouts
-  `a:+session`     player logins
-  `a:-session`     player logouts
-  `a:sign`         messages written on signs
-  `a:username`     username changes
+  * `a:block`        blocks placed/broken
+  * `a:+block`       blocks placed
+  * `a:-block`       blocks broken
+  * `a:chat`         messages sent in chat
+  * `a:click`        player interactions
+  * `a:command`      commands used
+  * `a:container`    items taken from or put in chests
+  * `a:+container`   items put in chests
+  * `a:-container`   items taken from chests
+  * `a:inventory`    items dropped, picked up, deposited, or withdrawn by players
+  * `a:+inventory`   items picked up or withdrawn by players
+  * `a:-inventory`   items dropped or deposited by players
+  * `a:item`         merges `a:container` and `a:inventory`
+  * `a:+item`        merges `a:+container` and `a:+inventory`
+  * `a:-item`        merges `a:-container` and `a:-inventory`
+  * `a:kill`         mobs/animals killed
+  * `a:session`      player logins/logouts
+  * `a:+session`     player logins
+  * `a:-session`     player logouts
+  * `a:sign`         messages written on signs
+  * `a:username`     username changes
 
 * * * * *
 
@@ -139,7 +139,7 @@ Add a hashtag to the end of your command to perform additional actions.
 
   Hashtag      Effect
   ------------ ----------------------------------------------------------
-  `#preview`   Preview a rollback/restore
-  `#count`     Return the number of rows found in a lookup query
-  `#verbose`   Display additional information during a rollback/restore
-  `#silent`    Display minimal information during a rollback/restore
+  * `#preview`   Preview a rollback/restore
+  * `#count`     Return the number of rows found in a lookup query
+  * `#verbose`   Display additional information during a rollback/restore
+  * `#silent`    Display minimal information during a rollback/restore
