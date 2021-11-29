@@ -1,5 +1,5 @@
 ---
-slug: patch notes
+slug: 2021-10-07-patch-notes
 title: SMP Patch Notes
 authors: [ryzechdev, derpylove_11, legundo, ecr0708]
 tags: [minecraft, smp, plugins]

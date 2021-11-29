@@ -5,7 +5,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
-const config = {
+module.exports = {
   title: 'Legundo SMP Docs',
   tagline: 'Be good gang. <3',
   url: 'https://docs.ryzech.net',
@@ -15,6 +15,8 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'ryzech', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
+
+  plugins: [require.resolve('docusaurus-lunr-search')],
 
   presets: [
     [
@@ -114,5 +116,3 @@ const config = {
       },
     }),
 };
-
-module.exports = config;
