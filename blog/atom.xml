@@ -2,15 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.ryzech.net/blog</id>
     <title>Legundo SMP Docs Blog</title>
-    <updated>2021-10-07T00:00:00.000Z</updated>
+    <updated>2021-11-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.ryzech.net/blog"/>
     <subtitle>Legundo SMP Docs Blog</subtitle>
     <icon>https://docs.ryzech.net/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Toxicity AI Detection Plugin]]></title>
+        <id>2021-11-29-toxicity-ai</id>
+        <link href="https://docs.ryzech.net/blog/2021-11-29-toxicity-ai"/>
+        <updated>2021-11-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<span]]></summary>
+        <content type="html"><![CDATA[<p><img src="../static/img/ai.jpg" alt="Chat Toxicity"/></p><h2>Python Toxicity Model Chat Plugin!</h2><h3>Python Model, how does it work?</h3><div color="#FFFF00">All credit for the model to BaldProgammer, he trained it, and setup the original API server</div><p>The model is based off of Bert&#x27;s Distil models! Can&#x27;t say much about ours, since we aren&#x27;t open-sourcing the model part of this. But you can see the official model <a href="https://huggingface.co/unitary/toxic-bert">here</a>!</p><h3>Chat Plugin, how the model interacts with the chat.</h3>]]></content>
+        <author>
+            <name>RyzechDev</name>
+            <uri>https://github.com/ryzech</uri>
+        </author>
+        <author>
+            <name>Derpylove_11</name>
+            <uri>https://www.youtube.com/watch?v=dQw4w9WgXcQ</uri>
+        </author>
+        <author>
+            <name>Legundo</name>
+            <uri>https://legundo.com</uri>
+        </author>
+        <author>
+            <name>Ecr0708</name>
+            <uri>https://www.youtube.com/watch?v=dQw4w9WgXcQ</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SMP Patch Notes]]></title>
-        <id>patch notes</id>
-        <link href="https://docs.ryzech.net/blog/patch notes"/>
+        <id>2021-10-07-patch-notes</id>
+        <link href="https://docs.ryzech.net/blog/2021-10-07-patch-notes"/>
         <updated>2021-10-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Legundo SMP recently had a huge patch update! This blog post will be going over what's changed and what you should expect to see different the next time you join.]]></summary>
         <content type="html"><![CDATA[<p>The <a href="https://legundo.mcserver.us">Legundo SMP</a> recently had a huge patch update! This blog post will be going over what&#x27;s changed and what you should expect to see different the next time you join.</p>]]></content>

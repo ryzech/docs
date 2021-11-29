@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmod_docs=self.webpackChunkmod_docs||[]).push([[843],{4634:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/ai","name":"ai","count":1,"permalink":"/blog/tags/ai"}')}}]);

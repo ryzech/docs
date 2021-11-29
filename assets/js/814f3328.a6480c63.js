@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmod_docs=self.webpackChunkmod_docs||[]).push([[535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Toxicity AI Detection Plugin","permalink":"/blog/2021-11-29-toxicity-ai"},{"title":"SMP Patch Notes","permalink":"/blog/2021-10-07-patch-notes"}]}')}}]);

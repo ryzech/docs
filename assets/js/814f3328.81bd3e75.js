@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmod_docs=self.webpackChunkmod_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"SMP Patch Notes","permalink":"/blog/patch notes"}]}')}}]);
