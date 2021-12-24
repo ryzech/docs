@@ -17,12 +17,10 @@
           "sidebarFilePath": "/Users/ryzechdev/github/docs/sidebars.js",
           "contentPath": "/Users/ryzechdev/github/docs/docs",
           "contentPathLocalized": "/Users/ryzechdev/github/docs/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "intro",
           "docs": [
             {
               "unversionedId": "intro",
               "id": "intro",
-              "isDocsHomePage": false,
               "title": "Coreprotect",
               "description": "Plugin we use to track every interaction anyone does.",
               "source": "@site/docs/intro.md",
@@ -32,6 +30,9 @@
               "editUrl": "https://github.com/ryzech/docs/edit/main/docs/intro.md",
               "tags": [],
               "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
               "frontMatter": {},
               "sidebar": "tutorialSidebar"
             }
@@ -43,7 +44,9 @@
                 "id": "intro"
               }
             ]
-          }
+          },
+          "mainDocId": "intro",
+          "categoryGeneratedIndices": []
         }
       ]
     }
@@ -280,7 +283,7 @@
   "docusaurus-theme-classic": {
     "default": null
   },
-  "docusaurus-lunr-search": {
+  "@easyops-cn/docusaurus-search-local": {
     "default": null
   }
 }

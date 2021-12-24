@@ -16,7 +16,15 @@ module.exports = {
   organizationName: 'ryzech', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+      },
+    ]
+    
+  ],
 
   presets: [
     [
@@ -25,6 +33,8 @@ module.exports = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
           // Please change this to your repo.
           editUrl: 'https://github.com/ryzech/docs/edit/main/',
         },

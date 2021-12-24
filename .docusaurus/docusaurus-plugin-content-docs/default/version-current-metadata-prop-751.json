@@ -11,8 +11,17 @@
       {
         "type": "link",
         "label": "Coreprotect",
-        "href": "/docs/intro"
+        "href": "/docs/intro",
+        "docId": "intro"
       }
     ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Coreprotect",
+      "description": "Plugin we use to track every interaction anyone does.",
+      "sidebar": "tutorialSidebar"
+    }
   }
 }

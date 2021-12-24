@@ -9,7 +9,12 @@ export default {
   "organizationName": "ryzech",
   "projectName": "docs",
   "plugins": [
-    "/Users/ryzechdev/github/docs/node_modules/docusaurus-lunr-search/src/index.js"
+    [
+      "/Users/ryzechdev/github/docs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      {
+        "hashed": true
+      }
+    ]
   ],
   "presets": [
     [
@@ -17,6 +22,8 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/ryzechdev/github/docs/sidebars.js",
+          "showLastUpdateTime": true,
+          "showLastUpdateAuthor": true,
           "editUrl": "https://github.com/ryzech/docs/edit/main/"
         },
         "blog": {
@@ -309,7 +316,7 @@ export default {
     "docs": {
       "versionPersistence": "localStorage"
     },
-    "metadatas": [],
+    "metadata": [],
     "hideableSidebar": false,
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -325,6 +332,9 @@ export default {
     "localeConfigs": {}
   },
   "onDuplicateRoutes": "warn",
+  "staticDirectories": [
+    "static"
+  ],
   "customFields": {},
   "themes": [],
   "titleDelimiter": "|",
