@@ -1322,7 +1322,7 @@
     "@docsearch/css" "3.0.0-alpha.41"
     algoliasearch "^4.0.0"
 
-"@docusaurus/core@2.0.0-beta.13", "@docusaurus/core@^2.0.0-beta.13":
+"@docusaurus/core@2.0.0-beta.13":
   version "2.0.0-beta.13"
   resolved "https://registry.yarnpkg.com/@docusaurus/core/-/core-2.0.0-beta.13.tgz#3179303e043bf6bd5da6b0141574665f5e66ea98"
   integrity sha512-iSU20aIVUDO8m+9koP/sHR1O/6Wvcr/WUMyYwJ47OPq4OkM4L2+opN9mb7UI5ZFXotXZAyMBe1Q6h83FC5xzvA==
@@ -1536,7 +1536,7 @@
     sitemap "^7.0.0"
     tslib "^2.3.1"
 
-"@docusaurus/preset-classic@^2.0.0-beta.13":
+"@docusaurus/preset-classic@2.0.0-beta.13":
   version "2.0.0-beta.13"
   resolved "https://registry.yarnpkg.com/@docusaurus/preset-classic/-/preset-classic-2.0.0-beta.13.tgz#907badfe99e46d37ab900f148cc7169671c7fe95"
   integrity sha512-LuxZc7/VO0abXVccQaSXND6mY6hA62DKadp4Gaw+IZV5vabrlBLQYaN9G/Cn5De+b1G5qbsyNS3sz6UQLWqQvA==
@@ -1672,7 +1672,7 @@
     cssesc "^3.0.0"
     immediate "^3.2.3"
 
-"@easyops-cn/docusaurus-search-local@^0.21.3":
+"@easyops-cn/docusaurus-search-local@0.21.3":
   version "0.21.3"
   resolved "https://registry.yarnpkg.com/@easyops-cn/docusaurus-search-local/-/docusaurus-search-local-0.21.3.tgz#bd2582b51178732d3f8ef54e7bad6e9df37d98e6"
   integrity sha512-zXldMlqaapL7y+940txT0yeIR0NLgfuR2RxHtvaumXmDmjIccG3Q9/zZXXaGK+vBEJU0O77HA7b+/8rIKzXJUQ==
