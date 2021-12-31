@@ -1,27 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>Legundo SMP Docs Blog</title>
         <link>https://docs.ryzech.net/blog</link>
         <description>Legundo SMP Docs Blog</description>
-        <lastBuildDate>Mon, 29 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Toxicity AI Detection Plugin]]></title>
-            <link>https://docs.ryzech.net/blog/2021-11-29-toxicity-ai</link>
-            <guid>2021-11-29-toxicity-ai</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[<span]]></description>
-            <content:encoded><![CDATA[<p><img src="../static/img/ai.jpg" alt="Chat Toxicity"/></p><h2>Python Toxicity Model Chat Plugin!</h2><h3>Python Model, how does it work?</h3><div color="#FFFF00">All credit for the model to BaldProgammer, he trained it, and setup the original API server</div><p>The model is based off of Bert&#x27;s Distil models! Can&#x27;t say much about ours, since we aren&#x27;t open-sourcing the model part of this. But you can see the official model <a href="https://huggingface.co/unitary/toxic-bert">here</a>!</p><h3>Chat Plugin, how the model interacts with the chat.</h3>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SMP Patch Notes]]></title>
-            <link>https://docs.ryzech.net/blog/2021-10-07-patch-notes</link>
-            <guid>2021-10-07-patch-notes</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Legundo SMP recently had a huge patch update! This blog post will be going over what's changed and what you should expect to see different the next time you join.]]></description>
-            <content:encoded><![CDATA[<p>The <a href="https://legundo.mcserver.us">Legundo SMP</a> recently had a huge patch update! This blog post will be going over what&#x27;s changed and what you should expect to see different the next time you join.</p>]]></content:encoded>
+            <title><![CDATA[testing]]></title>
+            <link>https://docs.ryzech.net/blog/2021/12/31/testing</link>
+            <guid>/2021/12/31/testing</guid>
+            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
