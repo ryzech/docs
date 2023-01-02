@@ -1,9 +1,9 @@
-# Coreprotect
+# CoreProtect
 
 > Plugin we use to track every interaction anyone does.
 
 Use this if you need to figure out if someone stole something from someone, broke blocks, set fire, griefed, pretty much everything! [External Docs, if you need extra help](https://docs.coreprotect.net/)
-## Coreprotect Commands
+## CoreProtect Commands
 
 | Command Name        | Description           | Aliases  |
 | ------------- |:-------------:| -----:|
