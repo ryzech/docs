@@ -63,7 +63,7 @@ module.exports = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'coreprotect',
             position: 'left',
             label: 'Docs',
           },
@@ -83,7 +83,7 @@ module.exports = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/intro',
+                to: '/docs/coreprotect',
               },
             ],
           },
