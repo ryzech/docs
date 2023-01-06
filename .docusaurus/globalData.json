@@ -8,11 +8,11 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "coreprotect",
           "docs": [
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/docs/coreprotect",
               "sidebar": "tutorialSidebar"
             }
           ]
