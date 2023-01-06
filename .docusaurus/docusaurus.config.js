@@ -46,7 +46,7 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "coreprotect",
           "position": "left",
           "label": "Docs"
         },
@@ -71,7 +71,7 @@ export default {
           "items": [
             {
               "label": "Docs",
-              "to": "/docs/intro"
+              "to": "/docs/coreprotect"
             }
           ]
         },
