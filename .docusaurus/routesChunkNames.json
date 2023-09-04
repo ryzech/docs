@@ -21,106 +21,24 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog-2f0": {
+  "/blog-a62": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blogd-98-dd7"
-      },
-      {
-        "content": "content---blogf-40-681"
+        "content": "content---blogb-82-2ea"
       }
     ],
     "metadata": "metadata---blogb-2-b-df1"
   },
-  "/blog/2021-10-07-patch-notes-e58": {
+  "/blog/2021/12/31/testing-1ab": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-10-07-patch-notesb-8-d-e79"
-  },
-  "/blog/2021-11-29-toxicity-ai-db7": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-11-29-toxicity-ai-1-ea-ba6"
+    "content": "content---blog-2021-12-31-testing-999-cd5"
   },
   "/blog/archive-f4c": {
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
     "archive": "archive---blog-archiveb-2-f-393"
-  },
-  "/blog/tags-e13": {
-    "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
-  },
-  "/blog/tags/ai-314": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogd-98-dd7"
-      }
-    ],
-    "metadata": "metadata---blog-tags-aif-32-543"
-  },
-  "/blog/tags/minecraft-79e": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogd-98-dd7"
-      },
-      {
-        "content": "content---blogf-40-681"
-      }
-    ],
-    "metadata": "metadata---blog-tags-minecraft-770-08d"
-  },
-  "/blog/tags/plugins-0f9": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogd-98-dd7"
-      },
-      {
-        "content": "content---blogf-40-681"
-      }
-    ],
-    "metadata": "metadata---blog-tags-plugins-752-c41"
-  },
-  "/blog/tags/programming-c01": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogd-98-dd7"
-      }
-    ],
-    "metadata": "metadata---blog-tags-programmingf-54-2c1"
-  },
-  "/blog/tags/python-e39": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogd-98-dd7"
-      }
-    ],
-    "metadata": "metadata---blog-tags-python-232-db4"
-  },
-  "/blog/tags/smp-2f5": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogd-98-dd7"
-      },
-      {
-        "content": "content---blogf-40-681"
-      }
-    ],
-    "metadata": "metadata---blog-tags-smp-524-111"
   },
   "/markdown-page-be1": {
     "component": "component---theme-mdx-page-1-f-3-b90",
@@ -129,13 +47,41 @@
   "/search-79a": {
     "component": "component---theme-search-page-1-a-4-d6f"
   },
-  "/docs-4ca": {
+  "/docs-bf6": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/intro-aed": {
+  "/docs/banmanager-896": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---docs-banmanagera-50-b6b"
+  },
+  "/docs/ChatManagement-8b1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-chat-management-2-fa-854"
+  },
+  "/docs/coreprotect-cac": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-coreprotectdbd-2d7"
+  },
+  "/docs/Examples-908": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-examplesaf-5-5d9"
+  },
+  "/docs/InventoryManagement-6a7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-inventory-management-8-d-0-d91"
+  },
+  "/docs/Logging-388": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-logging-83-e-52c"
+  },
+  "/docs/Philosophy-352": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-philosophyb-99-3a6"
+  },
+  "/docs/StaffChat-df9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-staff-chatdac-8f2"
   },
   "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",

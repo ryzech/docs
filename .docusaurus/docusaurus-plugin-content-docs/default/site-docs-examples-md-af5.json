@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Examples",
+  "id": "Examples",
+  "title": "Examples",
+  "description": "",
+  "source": "@site/docs/Examples.md",
+  "sourceDirName": ".",
+  "slug": "/Examples",
+  "permalink": "/docs/Examples",
+  "editUrl": "https://github.com/ryzech/docs/edit/main/docs/Examples.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CoreProtect",
+    "permalink": "/docs/coreprotect"
+  },
+  "next": {
+    "title": "InventoryManagement",
+    "permalink": "/docs/InventoryManagement"
+  }
+}

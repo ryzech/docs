@@ -1,0 +1,26 @@
+{
+  "unversionedId": "ChatManagement",
+  "id": "ChatManagement",
+  "title": "ChatManagement",
+  "description": "",
+  "source": "@site/docs/ChatManagement.md",
+  "sourceDirName": ".",
+  "slug": "/ChatManagement",
+  "permalink": "/docs/ChatManagement",
+  "editUrl": "https://github.com/ryzech/docs/edit/main/docs/ChatManagement.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BanManager (Punishments Plugin)",
+    "permalink": "/docs/banmanager"
+  },
+  "next": {
+    "title": "CoreProtect",
+    "permalink": "/docs/coreprotect"
+  }
+}

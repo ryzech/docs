@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Logging",
+  "id": "Logging",
+  "title": "Logging",
+  "description": "",
+  "source": "@site/docs/Logging.md",
+  "sourceDirName": ".",
+  "slug": "/Logging",
+  "permalink": "/docs/Logging",
+  "editUrl": "https://github.com/ryzech/docs/edit/main/docs/Logging.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "InventoryManagement",
+    "permalink": "/docs/InventoryManagement"
+  },
+  "next": {
+    "title": "Philosophy",
+    "permalink": "/docs/Philosophy"
+  }
+}

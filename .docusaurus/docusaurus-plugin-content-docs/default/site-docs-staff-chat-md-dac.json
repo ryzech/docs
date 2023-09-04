@@ -1,0 +1,22 @@
+{
+  "unversionedId": "StaffChat",
+  "id": "StaffChat",
+  "title": "StaffChat",
+  "description": "",
+  "source": "@site/docs/StaffChat.md",
+  "sourceDirName": ".",
+  "slug": "/StaffChat",
+  "permalink": "/docs/StaffChat",
+  "editUrl": "https://github.com/ryzech/docs/edit/main/docs/StaffChat.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Philosophy",
+    "permalink": "/docs/Philosophy"
+  }
+}

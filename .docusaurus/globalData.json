@@ -8,11 +8,46 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "coreprotect",
+          "mainDocId": "banmanager",
           "docs": [
             {
-              "id": "intro",
+              "id": "banmanager",
+              "path": "/docs/banmanager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ChatManagement",
+              "path": "/docs/ChatManagement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "coreprotect",
               "path": "/docs/coreprotect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Examples",
+              "path": "/docs/Examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "InventoryManagement",
+              "path": "/docs/InventoryManagement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Logging",
+              "path": "/docs/Logging",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Philosophy",
+              "path": "/docs/Philosophy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "StaffChat",
+              "path": "/docs/StaffChat",
               "sidebar": "tutorialSidebar"
             }
           ]

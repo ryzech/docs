@@ -10,17 +10,101 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Coreprotect",
-        "href": "/docs/intro",
-        "docId": "intro"
+        "label": "BanManager (Punishments Plugin)",
+        "href": "/docs/banmanager",
+        "docId": "banmanager"
+      },
+      {
+        "type": "link",
+        "label": "ChatManagement",
+        "href": "/docs/ChatManagement",
+        "docId": "ChatManagement"
+      },
+      {
+        "type": "link",
+        "label": "CoreProtect",
+        "href": "/docs/coreprotect",
+        "docId": "coreprotect"
+      },
+      {
+        "type": "link",
+        "label": "Examples",
+        "href": "/docs/Examples",
+        "docId": "Examples"
+      },
+      {
+        "type": "link",
+        "label": "InventoryManagement",
+        "href": "/docs/InventoryManagement",
+        "docId": "InventoryManagement"
+      },
+      {
+        "type": "link",
+        "label": "Logging",
+        "href": "/docs/Logging",
+        "docId": "Logging"
+      },
+      {
+        "type": "link",
+        "label": "Philosophy",
+        "href": "/docs/Philosophy",
+        "docId": "Philosophy"
+      },
+      {
+        "type": "link",
+        "label": "StaffChat",
+        "href": "/docs/StaffChat",
+        "docId": "StaffChat"
       }
     ]
   },
   "docs": {
-    "intro": {
-      "id": "intro",
-      "title": "Coreprotect",
+    "banmanager": {
+      "id": "banmanager",
+      "title": "BanManager (Punishments Plugin)",
+      "description": "Plugin for bannning, muting, kicking, ipbanning, warning, and any other punishment!",
+      "sidebar": "tutorialSidebar"
+    },
+    "ChatManagement": {
+      "id": "ChatManagement",
+      "title": "ChatManagement",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "coreprotect": {
+      "id": "coreprotect",
+      "title": "CoreProtect",
       "description": "Plugin we use to track every interaction anyone does.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Examples": {
+      "id": "Examples",
+      "title": "Examples",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "InventoryManagement": {
+      "id": "InventoryManagement",
+      "title": "InventoryManagement",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Logging": {
+      "id": "Logging",
+      "title": "Logging",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Philosophy": {
+      "id": "Philosophy",
+      "title": "Philosophy",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "StaffChat": {
+      "id": "StaffChat",
+      "title": "StaffChat",
+      "description": "",
       "sidebar": "tutorialSidebar"
     }
   }

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "InventoryManagement",
+  "id": "InventoryManagement",
+  "title": "InventoryManagement",
+  "description": "",
+  "source": "@site/docs/InventoryManagement.md",
+  "sourceDirName": ".",
+  "slug": "/InventoryManagement",
+  "permalink": "/docs/InventoryManagement",
+  "editUrl": "https://github.com/ryzech/docs/edit/main/docs/InventoryManagement.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Examples",
+    "permalink": "/docs/Examples"
+  },
+  "next": {
+    "title": "Logging",
+    "permalink": "/docs/Logging"
+  }
+}

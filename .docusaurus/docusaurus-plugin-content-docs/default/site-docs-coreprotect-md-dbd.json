@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coreprotect",
+  "id": "coreprotect",
+  "title": "CoreProtect",
+  "description": "Plugin we use to track every interaction anyone does.",
+  "source": "@site/docs/coreprotect.md",
+  "sourceDirName": ".",
+  "slug": "/coreprotect",
+  "permalink": "/docs/coreprotect",
+  "editUrl": "https://github.com/ryzech/docs/edit/main/docs/coreprotect.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ChatManagement",
+    "permalink": "/docs/ChatManagement"
+  },
+  "next": {
+    "title": "Examples",
+    "permalink": "/docs/Examples"
+  }
+}

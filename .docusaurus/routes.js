@@ -40,57 +40,17 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog','2f0'),
+    component: ComponentCreator('/blog','a62'),
     exact: true
   },
   {
-    path: '/blog/2021-10-07-patch-notes',
-    component: ComponentCreator('/blog/2021-10-07-patch-notes','e58'),
-    exact: true
-  },
-  {
-    path: '/blog/2021-11-29-toxicity-ai',
-    component: ComponentCreator('/blog/2021-11-29-toxicity-ai','db7'),
+    path: '/blog/2021/12/31/testing',
+    component: ComponentCreator('/blog/2021/12/31/testing','1ab'),
     exact: true
   },
   {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive','f4c'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags','e13'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/ai',
-    component: ComponentCreator('/blog/tags/ai','314'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/minecraft',
-    component: ComponentCreator('/blog/tags/minecraft','79e'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/plugins',
-    component: ComponentCreator('/blog/tags/plugins','0f9'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/programming',
-    component: ComponentCreator('/blog/tags/programming','c01'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/python',
-    component: ComponentCreator('/blog/tags/python','e39'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/smp',
-    component: ComponentCreator('/blog/tags/smp','2f5'),
     exact: true
   },
   {
@@ -105,11 +65,53 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','4ca'),
+    component: ComponentCreator('/docs','bf6'),
     routes: [
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro','aed'),
+        path: '/docs/banmanager',
+        component: ComponentCreator('/docs/banmanager','896'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/ChatManagement',
+        component: ComponentCreator('/docs/ChatManagement','8b1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/coreprotect',
+        component: ComponentCreator('/docs/coreprotect','cac'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Examples',
+        component: ComponentCreator('/docs/Examples','908'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/InventoryManagement',
+        component: ComponentCreator('/docs/InventoryManagement','6a7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Logging',
+        component: ComponentCreator('/docs/Logging','388'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Philosophy',
+        component: ComponentCreator('/docs/Philosophy','352'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/StaffChat',
+        component: ComponentCreator('/docs/StaffChat','df9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

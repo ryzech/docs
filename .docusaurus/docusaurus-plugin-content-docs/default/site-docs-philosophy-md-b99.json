@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Philosophy",
+  "id": "Philosophy",
+  "title": "Philosophy",
+  "description": "",
+  "source": "@site/docs/Philosophy.md",
+  "sourceDirName": ".",
+  "slug": "/Philosophy",
+  "permalink": "/docs/Philosophy",
+  "editUrl": "https://github.com/ryzech/docs/edit/main/docs/Philosophy.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Logging",
+    "permalink": "/docs/Logging"
+  },
+  "next": {
+    "title": "StaffChat",
+    "permalink": "/docs/StaffChat"
+  }
+}

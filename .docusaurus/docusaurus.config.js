@@ -10,7 +10,7 @@ export default {
   "projectName": "docs",
   "plugins": [
     [
-      "/Users/ryzechdev/github/docs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      "C:\\Users\\RyzechDev\\Documents\\docs\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }
@@ -21,7 +21,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/ryzechdev/github/docs/sidebars.js",
+          "sidebarPath": "C:\\Users\\RyzechDev\\Documents\\docs\\sidebars.js",
           "showLastUpdateTime": true,
           "showLastUpdateAuthor": true,
           "editUrl": "https://github.com/ryzech/docs/edit/main/"
@@ -31,7 +31,7 @@ export default {
           "editUrl": "https://github.com/ryzech/docs/edit/main/"
         },
         "theme": {
-          "customCss": "/Users/ryzechdev/github/docs/src/css/custom.css"
+          "customCss": "C:\\Users\\RyzechDev\\Documents\\docs\\src\\css\\custom.css"
         }
       }
     ]
@@ -106,7 +106,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 all rights reserved."
+      "copyright": "Copyright © 2023 all rights reserved."
     },
     "prism": {
       "theme": {

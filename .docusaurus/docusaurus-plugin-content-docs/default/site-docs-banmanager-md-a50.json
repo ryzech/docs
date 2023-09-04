@@ -1,0 +1,22 @@
+{
+  "unversionedId": "banmanager",
+  "id": "banmanager",
+  "title": "BanManager (Punishments Plugin)",
+  "description": "Plugin for bannning, muting, kicking, ipbanning, warning, and any other punishment!",
+  "source": "@site/docs/banmanager.md",
+  "sourceDirName": ".",
+  "slug": "/banmanager",
+  "permalink": "/docs/banmanager",
+  "editUrl": "https://github.com/ryzech/docs/edit/main/docs/banmanager.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "ChatManagement",
+    "permalink": "/docs/ChatManagement"
+  }
+}

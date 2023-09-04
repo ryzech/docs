@@ -14,38 +14,248 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/ryzechdev/github/docs/sidebars.js",
-          "contentPath": "/Users/ryzechdev/github/docs/docs",
-          "contentPathLocalized": "/Users/ryzechdev/github/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "C:\\Users\\RyzechDev\\Documents\\docs\\sidebars.js",
+          "contentPath": "C:\\Users\\RyzechDev\\Documents\\docs\\docs",
+          "contentPathLocalized": "C:\\Users\\RyzechDev\\Documents\\docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "unversionedId": "intro",
-              "id": "intro",
-              "title": "Coreprotect",
-              "description": "Plugin we use to track every interaction anyone does.",
-              "source": "@site/docs/intro.md",
+              "unversionedId": "banmanager",
+              "id": "banmanager",
+              "title": "BanManager (Punishments Plugin)",
+              "description": "Plugin for bannning, muting, kicking, ipbanning, warning, and any other punishment!",
+              "source": "@site/docs/banmanager.md",
               "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
-              "editUrl": "https://github.com/ryzech/docs/edit/main/docs/intro.md",
+              "slug": "/banmanager",
+              "permalink": "/docs/banmanager",
+              "editUrl": "https://github.com/ryzech/docs/edit/main/docs/banmanager.md",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "10/14/2018",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar"
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "ChatManagement",
+                "permalink": "/docs/ChatManagement"
+              }
+            },
+            {
+              "unversionedId": "ChatManagement",
+              "id": "ChatManagement",
+              "title": "ChatManagement",
+              "description": "",
+              "source": "@site/docs/ChatManagement.md",
+              "sourceDirName": ".",
+              "slug": "/ChatManagement",
+              "permalink": "/docs/ChatManagement",
+              "editUrl": "https://github.com/ryzech/docs/edit/main/docs/ChatManagement.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BanManager (Punishments Plugin)",
+                "permalink": "/docs/banmanager"
+              },
+              "next": {
+                "title": "CoreProtect",
+                "permalink": "/docs/coreprotect"
+              }
+            },
+            {
+              "unversionedId": "coreprotect",
+              "id": "coreprotect",
+              "title": "CoreProtect",
+              "description": "Plugin we use to track every interaction anyone does.",
+              "source": "@site/docs/coreprotect.md",
+              "sourceDirName": ".",
+              "slug": "/coreprotect",
+              "permalink": "/docs/coreprotect",
+              "editUrl": "https://github.com/ryzech/docs/edit/main/docs/coreprotect.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ChatManagement",
+                "permalink": "/docs/ChatManagement"
+              },
+              "next": {
+                "title": "Examples",
+                "permalink": "/docs/Examples"
+              }
+            },
+            {
+              "unversionedId": "Examples",
+              "id": "Examples",
+              "title": "Examples",
+              "description": "",
+              "source": "@site/docs/Examples.md",
+              "sourceDirName": ".",
+              "slug": "/Examples",
+              "permalink": "/docs/Examples",
+              "editUrl": "https://github.com/ryzech/docs/edit/main/docs/Examples.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CoreProtect",
+                "permalink": "/docs/coreprotect"
+              },
+              "next": {
+                "title": "InventoryManagement",
+                "permalink": "/docs/InventoryManagement"
+              }
+            },
+            {
+              "unversionedId": "InventoryManagement",
+              "id": "InventoryManagement",
+              "title": "InventoryManagement",
+              "description": "",
+              "source": "@site/docs/InventoryManagement.md",
+              "sourceDirName": ".",
+              "slug": "/InventoryManagement",
+              "permalink": "/docs/InventoryManagement",
+              "editUrl": "https://github.com/ryzech/docs/edit/main/docs/InventoryManagement.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Examples",
+                "permalink": "/docs/Examples"
+              },
+              "next": {
+                "title": "Logging",
+                "permalink": "/docs/Logging"
+              }
+            },
+            {
+              "unversionedId": "Logging",
+              "id": "Logging",
+              "title": "Logging",
+              "description": "",
+              "source": "@site/docs/Logging.md",
+              "sourceDirName": ".",
+              "slug": "/Logging",
+              "permalink": "/docs/Logging",
+              "editUrl": "https://github.com/ryzech/docs/edit/main/docs/Logging.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "InventoryManagement",
+                "permalink": "/docs/InventoryManagement"
+              },
+              "next": {
+                "title": "Philosophy",
+                "permalink": "/docs/Philosophy"
+              }
+            },
+            {
+              "unversionedId": "Philosophy",
+              "id": "Philosophy",
+              "title": "Philosophy",
+              "description": "",
+              "source": "@site/docs/Philosophy.md",
+              "sourceDirName": ".",
+              "slug": "/Philosophy",
+              "permalink": "/docs/Philosophy",
+              "editUrl": "https://github.com/ryzech/docs/edit/main/docs/Philosophy.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Logging",
+                "permalink": "/docs/Logging"
+              },
+              "next": {
+                "title": "StaffChat",
+                "permalink": "/docs/StaffChat"
+              }
+            },
+            {
+              "unversionedId": "StaffChat",
+              "id": "StaffChat",
+              "title": "StaffChat",
+              "description": "",
+              "source": "@site/docs/StaffChat.md",
+              "sourceDirName": ".",
+              "slug": "/StaffChat",
+              "permalink": "/docs/StaffChat",
+              "editUrl": "https://github.com/ryzech/docs/edit/main/docs/StaffChat.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Philosophy",
+                "permalink": "/docs/Philosophy"
+              }
             }
           ],
           "sidebars": {
             "tutorialSidebar": [
               {
                 "type": "doc",
-                "id": "intro"
+                "id": "banmanager"
+              },
+              {
+                "type": "doc",
+                "id": "ChatManagement"
+              },
+              {
+                "type": "doc",
+                "id": "coreprotect"
+              },
+              {
+                "type": "doc",
+                "id": "Examples"
+              },
+              {
+                "type": "doc",
+                "id": "InventoryManagement"
+              },
+              {
+                "type": "doc",
+                "id": "Logging"
+              },
+              {
+                "type": "doc",
+                "id": "Philosophy"
+              },
+              {
+                "type": "doc",
+                "id": "StaffChat"
               }
             ]
           },
-          "mainDocId": "intro",
+          "mainDocId": "banmanager",
           "categoryGeneratedIndices": []
         }
       ]
@@ -56,142 +266,21 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
-          "id": "2021-11-29-toxicity-ai",
+          "id": "/2021/12/31/testing",
           "metadata": {
-            "permalink": "/blog/2021-11-29-toxicity-ai",
-            "editUrl": "https://github.com/ryzech/docs/edit/main/blog/2021-11-29-toxicity-ai.md",
-            "source": "@site/blog/2021-11-29-toxicity-ai.md",
-            "title": "Toxicity AI Detection Plugin",
-            "description": "<span",
-            "date": "2021-11-29T00:00:00.000Z",
-            "formattedDate": "November 29, 2021",
-            "tags": [
-              {
-                "label": "minecraft",
-                "permalink": "/blog/tags/minecraft"
-              },
-              {
-                "label": "smp",
-                "permalink": "/blog/tags/smp"
-              },
-              {
-                "label": "plugins",
-                "permalink": "/blog/tags/plugins"
-              },
-              {
-                "label": "python",
-                "permalink": "/blog/tags/python"
-              },
-              {
-                "label": "ai",
-                "permalink": "/blog/tags/ai"
-              },
-              {
-                "label": "programming",
-                "permalink": "/blog/tags/programming"
-              }
-            ],
-            "readingTime": 0.475,
+            "permalink": "/blog/2021/12/31/testing",
+            "editUrl": "https://github.com/ryzech/docs/edit/main/blog/2021-12-31-testing.md",
+            "source": "@site/blog/2021-12-31-testing.md",
+            "title": "testing",
+            "description": "",
+            "date": "2021-12-31T00:00:00.000Z",
+            "formattedDate": "December 31, 2021",
+            "tags": [],
+            "readingTime": 0,
             "truncated": false,
-            "authors": [
-              {
-                "name": "RyzechDev",
-                "title": "Administator",
-                "url": "https://github.com/ryzech",
-                "imageURL": "https://github.com/ryzech.png",
-                "key": "ryzechdev"
-              },
-              {
-                "name": "Derpylove_11",
-                "title": "Administator",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "imageURL": "https://cdn.discordapp.com/avatars/556239460497620993/19312c4ae46786e74fdb25edb3e005e3.webp?size=1024",
-                "key": "derpylove_11"
-              },
-              {
-                "name": "Legundo",
-                "title": "Owner",
-                "url": "https://legundo.com",
-                "imageURL": "https://cdn.discordapp.com/avatars/90301457923866624/96cc45274960ed4fd0baafc9da394569.webp?size=1024",
-                "key": "legundo"
-              },
-              {
-                "name": "Ecr0708",
-                "title": "Administrator",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "imageURL": "https://cdn.discordapp.com/avatars/320943924200079370/084f657ae59f7ddcc092573fae6757c6.webp?size=1024",
-                "key": "ecr0708"
-              }
-            ],
-            "nextItem": {
-              "title": "SMP Patch Notes",
-              "permalink": "/blog/2021-10-07-patch-notes"
-            }
+            "authors": []
           },
-          "content": "export const Highlight = ({children, color}) => (\n  <span\n    style={{\n      backgroundColor: color,\n      borderRadius: '2px',\n      color: '#000',\n      padding: '0.2rem',\n    }}>\n    {children}\n  </span>\n);\n\n\n![Chat Toxicity](../static/img/ai.jpg)\n\n## Python Toxicity Model Chat Plugin!\n\n\n### Python Model, how does it work? \n<Highlight color=\"#FFFF00\">All credit for the model to BaldProgammer, he trained it, and setup the original API server</Highlight>\n\nThe model is based off of Bert's Distil models! Can't say much about ours, since we aren't open-sourcing the model part of this. But you can see the official model [here](https://huggingface.co/unitary/toxic-bert)!\n\n### Chat Plugin, how the model interacts with the chat."
-        },
-        {
-          "id": "2021-10-07-patch-notes",
-          "metadata": {
-            "permalink": "/blog/2021-10-07-patch-notes",
-            "editUrl": "https://github.com/ryzech/docs/edit/main/blog/2021-10-07-patch-notes.md",
-            "source": "@site/blog/2021-10-07-patch-notes.md",
-            "title": "SMP Patch Notes",
-            "description": "The Legundo SMP recently had a huge patch update! This blog post will be going over what's changed and what you should expect to see different the next time you join.",
-            "date": "2021-10-07T00:00:00.000Z",
-            "formattedDate": "October 7, 2021",
-            "tags": [
-              {
-                "label": "minecraft",
-                "permalink": "/blog/tags/minecraft"
-              },
-              {
-                "label": "smp",
-                "permalink": "/blog/tags/smp"
-              },
-              {
-                "label": "plugins",
-                "permalink": "/blog/tags/plugins"
-              }
-            ],
-            "readingTime": 0.155,
-            "truncated": false,
-            "authors": [
-              {
-                "name": "RyzechDev",
-                "title": "Administator",
-                "url": "https://github.com/ryzech",
-                "imageURL": "https://github.com/ryzech.png",
-                "key": "ryzechdev"
-              },
-              {
-                "name": "Derpylove_11",
-                "title": "Administator",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "imageURL": "https://cdn.discordapp.com/avatars/556239460497620993/19312c4ae46786e74fdb25edb3e005e3.webp?size=1024",
-                "key": "derpylove_11"
-              },
-              {
-                "name": "Legundo",
-                "title": "Owner",
-                "url": "https://legundo.com",
-                "imageURL": "https://cdn.discordapp.com/avatars/90301457923866624/96cc45274960ed4fd0baafc9da394569.webp?size=1024",
-                "key": "legundo"
-              },
-              {
-                "name": "Ecr0708",
-                "title": "Administrator",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "imageURL": "https://cdn.discordapp.com/avatars/320943924200079370/084f657ae59f7ddcc092573fae6757c6.webp?size=1024",
-                "key": "ecr0708"
-              }
-            ],
-            "prevItem": {
-              "title": "Toxicity AI Detection Plugin",
-              "permalink": "/blog/2021-11-29-toxicity-ai"
-            }
-          },
-          "content": "The [Legundo SMP](https://legundo.mcserver.us) recently had a huge patch update! This blog post will be going over what's changed and what you should expect to see different the next time you join."
+          "content": ""
         }
       ],
       "blogListPaginated": [
@@ -201,66 +290,19 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 2,
+            "totalCount": 1,
             "previousPage": null,
             "nextPage": null,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           },
           "items": [
-            "2021-11-29-toxicity-ai",
-            "2021-10-07-patch-notes"
+            "/2021/12/31/testing"
           ]
         }
       ],
-      "blogTags": {
-        "/blog/tags/minecraft": {
-          "name": "minecraft",
-          "items": [
-            "2021-11-29-toxicity-ai",
-            "2021-10-07-patch-notes"
-          ],
-          "permalink": "/blog/tags/minecraft"
-        },
-        "/blog/tags/smp": {
-          "name": "smp",
-          "items": [
-            "2021-11-29-toxicity-ai",
-            "2021-10-07-patch-notes"
-          ],
-          "permalink": "/blog/tags/smp"
-        },
-        "/blog/tags/plugins": {
-          "name": "plugins",
-          "items": [
-            "2021-11-29-toxicity-ai",
-            "2021-10-07-patch-notes"
-          ],
-          "permalink": "/blog/tags/plugins"
-        },
-        "/blog/tags/python": {
-          "name": "python",
-          "items": [
-            "2021-11-29-toxicity-ai"
-          ],
-          "permalink": "/blog/tags/python"
-        },
-        "/blog/tags/ai": {
-          "name": "ai",
-          "items": [
-            "2021-11-29-toxicity-ai"
-          ],
-          "permalink": "/blog/tags/ai"
-        },
-        "/blog/tags/programming": {
-          "name": "programming",
-          "items": [
-            "2021-11-29-toxicity-ai"
-          ],
-          "permalink": "/blog/tags/programming"
-        }
-      },
-      "blogTagsListPath": "/blog/tags"
+      "blogTags": {},
+      "blogTagsListPath": null
     }
   },
   "docusaurus-plugin-content-pages": {
